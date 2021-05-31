@@ -1,4 +1,4 @@
-# Hi! I'm MP, a developer from Manila, Philippines who likes to build things using <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
+# Hi! I'm MP, a developer from Manila, Philippines who likes to build things using JS
 
 <!-- profile views -->
 <p align="center">
