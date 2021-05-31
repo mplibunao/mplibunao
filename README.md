@@ -24,19 +24,3 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mplibunao&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
-
-<!-- programming languages-->
-<p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/linux/linux-plain.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/vim/vim-original.svg" width="25px" height="25px"/>
-  <!--
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-  -->
-</p>
