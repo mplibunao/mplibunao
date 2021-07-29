@@ -1,4 +1,4 @@
-# Hi! I'm MP, a developer from Manila, Philippines who likes to build things using JS
+## Hi! I'm MP, a developer who likes to build things using JS
 
 <!-- profile views -->
 <p align="center">
